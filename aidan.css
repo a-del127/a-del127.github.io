@@ -1,9 +1,5 @@
 <style>
-  .parallax {
-    background-image: url(mountain 2.jpg);
-    min-height: 500px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
+  body {
     background-size: cover;
+    background-image: url(mountain 2.jpg);
 </style>
